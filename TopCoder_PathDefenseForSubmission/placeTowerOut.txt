@@ -1,0 +1,495 @@
+simulationTime: 0
+creep array size: 0
+creepList: 0
+simulationTime: 1
+creep array size: 0
+creepList: 0
+simulationTime: 2
+creep array size: 0
+creepList: 0
+simulationTime: 3
+creep array size: 4
+creepList: 1
+475,4,10,0
+creep 475 choose path: 
+10 0, 10 1, 11 1, 11 2, 11 3, 11 4, 11 5, 11 6, 11 7, 11 8, 11 9, 11 10, 11 11, 11 12, 11 13, 11 14, 11 15, 
+475 heatlth: 4
+movePath condition: 
+10 0 4
+10 1 4
+11 1 4
+11 2 4
+11 3 4
+11 4 4
+11 5 4
+11 6 4
+11 7 4
+11 8 4
+11 9 4
+11 10 4
+11 11 4
+11 12 4
+11 13 4
+11 14 4
+11 15 4
+tower bulid: 12 10 3 4 17
+Tower number needed for simulationTime: 3 is 1
+format: x, y, damage, cost
+10 3 4 17
+simulationTime: 4
+creep array size: 0
+creepList: 0
+simulationTime: 5
+creep array size: 0
+creepList: 0
+simulationTime: 6
+creep array size: 0
+creepList: 0
+simulationTime: 7
+creep array size: 0
+creepList: 0
+simulationTime: 8
+creep array size: 0
+creepList: 0
+simulationTime: 9
+creep array size: 4
+creepList: 1
+295,4,0,13
+creep 295 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+295 heatlth: 4
+movePath condition: 
+0 13 4
+1 13 4
+1 12 4
+1 11 4
+2 11 4
+3 11 4
+4 11 4
+5 11 4
+6 11 4
+7 11 4
+8 11 4
+9 11 4
+10 11 4
+11 11 4
+12 11 4
+13 11 4
+tower bulid: 12 2 12 4 17
+Tower number needed for simulationTime: 9 is 1
+format: x, y, damage, cost
+2 12 4 17
+simulationTime: 10
+creep array size: 0
+creepList: 0
+simulationTime: 11
+creep array size: 0
+creepList: 0
+simulationTime: 12
+creep array size: 4
+creepList: 1
+192,4,5,0
+creep 192 choose path: 
+5 0, 5 1, 4 1, 4 2, 4 3, 4 4, 4 5, 4 6, 4 7, 4 8, 4 9, 4 10, 4 11, 4 12, 4 13, 4 14, 4 15, 
+192 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 12 is 0
+format: x, y, damage, cost
+simulationTime: 13
+creep array size: 4
+creepList: 0
+simulationTime: 14
+creep array size: 4
+creepList: 0
+simulationTime: 15
+creep array size: 4
+creepList: 0
+simulationTime: 16
+creep array size: 4
+creepList: 0
+simulationTime: 17
+creep array size: 0
+creepList: 0
+simulationTime: 18
+creep array size: 0
+creepList: 0
+simulationTime: 19
+creep array size: 0
+creepList: 0
+simulationTime: 20
+creep array size: 0
+creepList: 0
+simulationTime: 21
+creep array size: 0
+creepList: 0
+simulationTime: 22
+creep array size: 0
+creepList: 0
+simulationTime: 23
+creep array size: 0
+creepList: 0
+simulationTime: 24
+creep array size: 0
+creepList: 0
+simulationTime: 25
+creep array size: 0
+creepList: 0
+simulationTime: 26
+creep array size: 0
+creepList: 0
+simulationTime: 27
+creep array size: 0
+creepList: 0
+simulationTime: 28
+creep array size: 0
+creepList: 0
+simulationTime: 29
+creep array size: 0
+creepList: 0
+simulationTime: 30
+creep array size: 0
+creepList: 0
+simulationTime: 31
+creep array size: 4
+creepList: 1
+297,4,16,19
+creep 297 choose path: 
+16 19, 16 18, 15 18, 15 17, 15 16, 14 16, 14 15, 13 15, 12 15, 
+297 heatlth: 4
+movePath condition: 
+16 19 4
+16 18 4
+15 18 4
+15 17 4
+15 16 4
+14 16 4
+14 15 4
+13 15 4
+12 15 4
+tower bulid: 12 14 17 4 17
+Tower number needed for simulationTime: 31 is 1
+format: x, y, damage, cost
+14 17 4 17
+simulationTime: 32
+creep array size: 0
+creepList: 0
+simulationTime: 33
+creep array size: 0
+creepList: 0
+simulationTime: 34
+creep array size: 0
+creepList: 0
+simulationTime: 35
+creep array size: 0
+creepList: 0
+simulationTime: 36
+creep array size: 4
+creepList: 1
+432,4,19,11
+creep 432 choose path: 
+19 11, 18 11, 17 11, 17 12, 17 13, 17 14, 17 15, 16 15, 15 15, 14 15, 13 15, 12 15, 
+432 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 36 is 0
+format: x, y, damage, cost
+simulationTime: 37
+creep array size: 4
+creepList: 0
+simulationTime: 38
+creep array size: 4
+creepList: 0
+simulationTime: 39
+creep array size: 8
+creepList: 1
+25,4,0,13
+creep 25 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+25 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 39 is 0
+format: x, y, damage, cost
+simulationTime: 40
+creep array size: 4
+creepList: 1
+21,4,0,13
+creep 21 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+21 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 40 is 0
+format: x, y, damage, cost
+simulationTime: 41
+creep array size: 0
+creepList: 0
+simulationTime: 42
+creep array size: 4
+creepList: 1
+18,4,0,13
+creep 18 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+18 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 42 is 0
+format: x, y, damage, cost
+simulationTime: 43
+creep array size: 8
+creepList: 1
+16,4,0,13
+creep 16 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+16 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 43 is 0
+format: x, y, damage, cost
+simulationTime: 44
+creep array size: 12
+creepList: 1
+0,4,0,13
+creep 0 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+0 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 44 is 0
+format: x, y, damage, cost
+simulationTime: 45
+creep array size: 4
+creepList: 0
+simulationTime: 46
+creep array size: 4
+creepList: 1
+23,4,0,13
+creep 23 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+23 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 46 is 0
+format: x, y, damage, cost
+simulationTime: 47
+creep array size: 8
+creepList: 1
+26,4,0,13
+creep 26 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+26 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 47 is 0
+format: x, y, damage, cost
+simulationTime: 48
+creep array size: 0
+creepList: 0
+simulationTime: 49
+creep array size: 0
+creepList: 0
+simulationTime: 50
+creep array size: 4
+creepList: 1
+27,4,0,13
+creep 27 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+27 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 50 is 0
+format: x, y, damage, cost
+simulationTime: 51
+creep array size: 4
+creepList: 1
+8,4,0,13
+creep 8 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+8 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 51 is 0
+format: x, y, damage, cost
+simulationTime: 52
+creep array size: 16
+creepList: 1
+7,4,0,13
+creep 7 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+7 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 52 is 0
+format: x, y, damage, cost
+simulationTime: 53
+creep array size: 12
+creepList: 0
+simulationTime: 54
+creep array size: 8
+creepList: 0
+simulationTime: 55
+creep array size: 8
+creepList: 1
+6,4,0,13
+creep 6 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+6 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 55 is 0
+format: x, y, damage, cost
+simulationTime: 56
+creep array size: 4
+creepList: 0
+simulationTime: 57
+creep array size: 8
+creepList: 1
+13,4,0,13
+creep 13 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+13 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 57 is 0
+format: x, y, damage, cost
+simulationTime: 58
+creep array size: 4
+creepList: 0
+simulationTime: 59
+creep array size: 0
+creepList: 0
+simulationTime: 60
+creep array size: 0
+creepList: 0
+simulationTime: 61
+creep array size: 4
+creepList: 1
+425,4,5,0
+creep 425 choose path: 
+5 0, 5 1, 4 1, 4 2, 4 3, 4 4, 4 5, 4 6, 4 7, 4 8, 4 9, 4 10, 4 11, 4 12, 4 13, 4 14, 4 15, 
+425 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 61 is 0
+format: x, y, damage, cost
+simulationTime: 62
+creep array size: 16
+creepList: 1
+3,4,0,13
+creep 3 choose path: 
+0 13, 1 13, 1 12, 1 11, 2 11, 3 11, 4 11, 5 11, 6 11, 7 11, 8 11, 9 11, 10 11, 11 11, 12 11, 13 11, 
+3 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 62 is 0
+format: x, y, damage, cost
+simulationTime: 63
+creep array size: 16
+creepList: 0
+simulationTime: 64
+creep array size: 12
+creepList: 0
+simulationTime: 65
+creep array size: 8
+creepList: 0
+simulationTime: 66
+creep array size: 0
+creepList: 0
+simulationTime: 67
+creep array size: 0
+creepList: 0
+simulationTime: 68
+creep array size: 0
+creepList: 0
+simulationTime: 69
+creep array size: 0
+creepList: 0
+simulationTime: 70
+creep array size: 0
+creepList: 0
+simulationTime: 71
+creep array size: 0
+creepList: 0
+simulationTime: 72
+creep array size: 4
+creepList: 1
+496,4,1,0
+creep 496 choose path: 
+1 0, 1 1, 1 2, 1 3, 2 3, 3 3, 4 3, 4 4, 5 4, 5 5, 6 5, 7 5, 8 5, 9 5, 10 5, 11 5, 11 6, 12 6, 12 7, 12 8, 12 9, 12 10, 12 11, 11 11, 11 12, 11 13, 12 13, 12 14, 12 15, 
+496 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 72 is 0
+format: x, y, damage, cost
+simulationTime: 73
+creep array size: 4
+creepList: 0
+simulationTime: 74
+creep array size: 4
+creepList: 0
+simulationTime: 75
+creep array size: 4
+creepList: 0
+simulationTime: 76
+creep array size: 4
+creepList: 0
+simulationTime: 77
+creep array size: 8
+creepList: 1
+411,4,5,0
+creep 411 choose path: 
+5 0, 5 1, 4 1, 4 2, 4 3, 4 4, 4 5, 4 6, 4 7, 4 8, 4 9, 4 10, 4 11, 4 12, 4 13, 4 14, 4 15, 
+411 heatlth: 0
+movePath condition: 
+Tower number needed for simulationTime: 77 is 0
+format: x, y, damage, cost
+simulationTime: 78
+creep array size: 8
+creepList: 0
+simulationTime: 79
+creep array size: 8
+creepList: 0
+simulationTime: 80
+creep array size: 8
+creepList: 0
+simulationTime: 81
+creep array size: 8
+creepList: 0
+simulationTime: 82
+creep array size: 8
+creepList: 0
+simulationTime: 83
+creep array size: 4
+creepList: 0
+simulationTime: 84
+creep array size: 4
+creepList: 0
+simulationTime: 85
+creep array size: 4
+creepList: 0
+simulationTime: 86
+creep array size: 0
+creepList: 0
+simulationTime: 87
+creep array size: 0
+creepList: 0
+simulationTime: 88
+creep array size: 0
+creepList: 0
+simulationTime: 89
+creep array size: 0
+creepList: 0
+simulationTime: 90
+creep array size: 0
+creepList: 0
+simulationTime: 91
+creep array size: 0
+creepList: 0
+simulationTime: 92
+creep array size: 0
+creepList: 0
+simulationTime: 93
+creep array size: 0
+creepList: 0
+simulationTime: 94
+creep array size: 0
+creepList: 0
+simulationTime: 95
+creep array size: 0
+creepList: 0
+simulationTime: 96
+creep array size: 0
+creepList: 0
+simulationTime: 97
+creep array size: 0
+creepList: 0
+simulationTime: 98
+creep array size: 0
+creepList: 0
+simulationTime: 99
+creep array size: 0
+creepList: 0
